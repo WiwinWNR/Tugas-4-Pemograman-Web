@@ -2,10 +2,13 @@
 # Langkah-Langkah Praktikum
 Buat file baru dengan nama header.php
 ![Screenshot (153)](https://user-images.githubusercontent.com/115921167/229330982-2d2cc164-6a0e-4fae-8aa5-ce44fff862e0.png)
+
 Buat file baru dengan nama footer.php
 ![Screenshot (154)](https://user-images.githubusercontent.com/115921167/229331014-09a16d2b-1d74-4b88-9e5c-267ea95d774d.png)
+
 Buat file baru dengan nama home.php
 ![Screenshot (155)](https://user-images.githubusercontent.com/115921167/229331088-14409799-2445-4b8e-b819-a3f2fdd6fed8.png)
+
 Buat file baru dengan nama about.php
 ![Screenshot (156)](https://user-images.githubusercontent.com/115921167/229331144-507c4411-9525-42df-a965-2b4c5611902f.png)
 # Membuat Routing
