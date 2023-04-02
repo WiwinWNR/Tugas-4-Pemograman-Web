@@ -29,6 +29,8 @@ Aktifkan LoadModule mod_rewrite dengan cara melakukan un-comment pada baris ters
 kemudian restart Apache2.
 Langkah berikutnya adalah membuat file .htaccess
 ![Screenshot (159)](https://user-images.githubusercontent.com/115921167/229331334-65555da2-8b17-443e-9566-8a0524b9ac45.png)
+
 Cara aksesnya menjadi:
 • Halaman Home ( http://localhost/Lab4Web/home.php )
+
 • Halaman About ( http://localhost/Lab4Web/about.php )
